@@ -1,5 +1,5 @@
 # MSH
-                          Meghand Saha Hall of Residence Website :
+                             Hall  Website :
 
 Objective : To create a professional website for all hall activites and hall information for borders
 of Meghand Saha Hall of Residence .
